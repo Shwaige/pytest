@@ -1,0 +1,46 @@
+
+# title: 用例标题
+# url: 请求地址
+# method: 请求方法
+# body: 请求体
+# status_code: 响应状态码
+# response: 响应内容
+# json_path: 解析json path
+# json_value: value
+
+
+- title: 登录
+  url: https://qingflow.com/api/user/login
+  method: POST
+  body: {"password": "UUxLmKC6rdiBWZnoz1cp4DPWg0Z+R7vKdNfY7MnpNST+5ZcuJnEKvDO18waYNjQtr+8hEKt46+ouHXBqbxp627hukzvFjJqvdwx//XQkBkqAM1LQBQZa/5jMTOsv0V11GyDr/OyDd60crD6faq5cjrHTcajZ27IBZFKoT3d74Es=","email": "zhangyong@exiao.tech"}
+  status_code: 200
+- title: 登录1
+  url: https://qingflow.com/api/user/login
+  method: POST
+  body: {"password": "UUxLmKC6rdiBWZnoz1cp4DPWg0Z+R7vKdNfY7MnpNST+5ZcuJnEKvDO18waYNjQtr+8hEKt46+ouHXBqbxp627hukzvFjJqvdwx//XQkBkqAM1LQBQZa/5jMTOsv0V11GyDr/OyDd60crD6faq5cjrHTcajZ27IBZFKoT3d74Es=","email": "zhangyong@exiao.tech"}
+  status_code: 200
+- title: 登录2
+  url: https://qingflow.com/api/user/login
+  method: POST
+  body: {"password": "UUxLmKC6rdiBWZnoz1cp4DPWg0Z+R7vKdNfY7MnpNST+5ZcuJnEKvDO18waYNjQtr+8hEKt46+ouHXBqbxp627hukzvFjJqvdwx//XQkBkqAM1LQBQZa/5jMTOsv0V11GyDr/OyDd60crD6faq5cjrHTcajZ27IBZFKoT3d74Es=","email": "zhangyong@exiao.tech"}
+  status_code: 200
+- title: 登录3
+  url: https://qingflow.com/api/user/login
+  method: POST
+  body: {"password": "UUxLmKC6rdiBWZnoz1cp4DPWg0Z+R7vKdNfY7MnpNST+5ZcuJnEKvDO18waYNjQtr+8hEKt46+ouHXBqbxp627hukzvFjJqvdwx//XQkBkqAM1LQBQZa/5jMTOsv0V11GyDr/OyDd60crD6faq5cjrHTcajZ27IBZFKoT3d74Es=","email": "zhangyong@exiao.tech"}
+  status_code: 200
+- title: 登录4
+  url: https://qingflow.com/api/user/login
+  method: POST
+  body: {"password": "UUxLmKC6rdiBWZnoz1cp4DPWg0Z+R7vKdNfY7MnpNST+5ZcuJnEKvDO18waYNjQtr+8hEKt46+ouHXBqbxp627hukzvFjJqvdwx//XQkBkqAM1LQBQZa/5jMTOsv0V11GyDr/OyDd60crD6faq5cjrHTcajZ27IBZFKoT3d74Es=","email": "zhangyong@exiao.tech"}
+  status_code: 200
+- title: 登录5
+  url: https://qingflow.com/api/user/login
+  method: POST
+  body: {"password": "UUxLmKC6rdiBWZnoz1cp4DPWg0Z+R7vKdNfY7MnpNST+5ZcuJnEKvDO18waYNjQtr+8hEKt46+ouHXBqbxp627hukzvFjJqvdwx//XQkBkqAM1LQBQZa/5jMTOsv0V11GyDr/OyDd60crD6faq5cjrHTcajZ27IBZFKoT3d74Es=","email": "zhangyong@exiao.tech"}
+  status_code: 200
+- title: 登录6
+  url: https://qingflow.com/api/user/login
+  method: POST
+  body: {"password": "UUm6rdiBWZnoz1cp4DPWg0Z+R7vKdNfY7MnpNST+5ZcuJnEKvDO18waYNjQtr+8hEKt46+ouHXBqbxp627hukzvFjJqvdwx//XQkBkqAM1LQBQZa/5jMTOsv0V11GyDr/OyDd60crD6faq5cjrHTcajZ27IBZFKoT3d74Es=","email": "zhangyong@exiao.tech"}
+  status_code: 200

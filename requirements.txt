@@ -1,0 +1,9 @@
+pytest
+pytest-html
+requests
+requests-mock
+pyyaml
+openpyxl
+pandas
+pydantic[dotenv]
+allure-pytest
